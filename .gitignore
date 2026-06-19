@@ -29,3 +29,8 @@ tiktok_videos.db
 # Sistema
 .DS_Store
 Thumbs.db
+
+## YO NO QUIERO QUE SE SUBA  ESTO
+templates/
+app.py
+
