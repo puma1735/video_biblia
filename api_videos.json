@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "total_videos": 2,
-  "ultima_actualizacion": "2026-06-19T13:56:09.572021",
+  "ultima_actualizacion": "2026-06-29T17:11:19.710601",
   "videos": [
     {
       "id": "7497033784227826966",
@@ -12,8 +12,10 @@
       "vistas": 6596,
       "duracion": 62,
       "tamanio_mb": 5.93,
-      "url_video": "/api/video/7497033784227826966",
-      "etiquetas": []
+      "url_video": "/videos_database/7497033784227826966_afa33123.mp4",
+      "etiquetas": [
+        "Virgen María"
+      ]
     },
     {
       "id": "7516955549922086164",
@@ -24,8 +26,10 @@
       "vistas": 71684,
       "duracion": 83,
       "tamanio_mb": 2.45,
-      "url_video": "/api/video/7516955549922086164",
-      "etiquetas": []
+      "url_video": "/videos_database/7516955549922086164_d318cb89.mp4",
+      "etiquetas": [
+        "Virgen María"
+      ]
     }
   ]
 }
